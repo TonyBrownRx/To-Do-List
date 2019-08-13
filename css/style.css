@@ -1,0 +1,21 @@
+.main-header {
+    background-color: black;
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
+
+.main-footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+.list {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 20px;
+    background-color: blue;
+    color: gold;
+}
