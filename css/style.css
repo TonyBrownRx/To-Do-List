@@ -1,4 +1,5 @@
 .main-header {
+    border: 5px dotted #fff;
     background-color: black;
     color: red;
     padding: 10px;
@@ -6,16 +7,28 @@
 }
 
 .main-footer {
+    border: 5px dotted #000;
     background-color: purple;
     color: white;
     text-align: center;
 }
 
 .list {
+    border: 5px dotted #000;
     margin-left: 100px;
     margin-right: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 20px;
     background-color: blue;
     color: gold;
+}
+
+#todo {
+    border: 5px dotted #fff;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+button {
+    background-color: chartreuse
+    
 }
